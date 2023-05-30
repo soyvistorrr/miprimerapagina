@@ -20,5 +20,5 @@ function validateForm() {
 }
 document.querySelector("button.button-menu-toggle")
     .addEventListener("click", function() {
-           document.querySelector("nav-links").
+           document.querySelector("nav-bar").
                       classList.toggle("nav-links-responsive")})
