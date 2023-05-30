@@ -18,7 +18,6 @@ function validateForm() {
     alert('Correo electrónico enviado correctamente.');
   }
 }
-
 document.querySelector("button.button-menu-toggle")
     .addEventListener("click", function() {
            document.querySelector(".nav-links").
