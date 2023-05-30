@@ -141,6 +141,12 @@ a {
 	margin: 30 px;
 	padding: 20 px;
 }
+.lista {
+		text-align: center;
+		margin: 30 px;
+		padding: 20 px;
+		align-items: baseline;
+}
 .container-services {
 	text-align: center;
 	font-size: 34 px;
