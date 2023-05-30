@@ -26,7 +26,6 @@ p{
   max-width: 800px;
   margin: auto;
   padding: 20px;
-	align-items: baseline;
 }
 .row {
   display: flex;
