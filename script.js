@@ -1,5 +1,6 @@
 function showAlert() { alert ('Esta es una alerta de JavaScript'); }
 const form = document.getElementById('myForm');
+
 form.addEventListener('submit', function(event) {
   event.preventDefault();
   validateForm();
