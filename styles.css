@@ -147,6 +147,7 @@ a {
 	font-family: "Elephant";
 	margin: 30 px;
 	padding: 20 px;
+	align-content: center;
 }
 .about-container {
 	text-align: center;
